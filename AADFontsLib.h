@@ -9,8 +9,6 @@
 #include "Arduino.h"
 //add your includes for the project AADFontsLib here
 
-#include "Arduino.h"
-
 class AADFonts{
 
   public:
